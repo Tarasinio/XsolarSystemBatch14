@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e67d262-744c-4b40-9b2b-a2fcf131c725" name="Changes" comment="" />
+    <list default="true" id="9e67d262-744c-4b40-9b2b-a2fcf131c725" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FeatureSun.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="2JBiQ0x3ZvlbuXguRUg2j6M1RYA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,7 +24,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/tarasom/IdeaProjects/TOM/XsolarSystemBatch14"
   }
 }]]></component>
   <component name="RunManager">
